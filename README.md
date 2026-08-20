@@ -67,6 +67,14 @@ Cancel Alert           ↓
 * **Notifications:** SMS / Push Notifications
 * **Sensors:** Smartphone Accelerometer and Gyroscope
 
+## Dataset kaggle link
+
+WISDM Smartphone and Smartwatch Activity and Biometrics Dataset:- 
+https://archive.ics.uci.edu/dataset/507/wisdm+smartphone+and+smartwatch+activity+and+biometrics+dataset
+
+SisFall Dataset Pdf Instruction :- https://www.mdpi.com/1424-8220/17/1/198
+
+
 ## Team
 
 
@@ -79,3 +87,4 @@ Cancel Alert           ↓
 | Sakshi Gupta         |       23103067 | Team Member |
 | Divyam Kumar Choubey |       23103070 | Team Member |
 | Aditya Laxkar        |       23103071 | Team Member |
+
