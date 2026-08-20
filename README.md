@@ -71,7 +71,7 @@ Cancel Alert           ↓
 
 
 
-**Team Name:** Ved Vahini
+**Team Name:**  **Ved Vahini**
 
 | Member               | Enrollment No. | Role        |
 | -------------------- | -------------: | ----------- |
