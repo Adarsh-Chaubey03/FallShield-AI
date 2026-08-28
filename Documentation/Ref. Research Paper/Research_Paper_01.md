@@ -16,7 +16,7 @@ Harari et al. proposed a smartphone-based system for detecting **real-life falls
 
 ---
 
-## 3. Harari et al. vs Fall Shield-AI
+## 2. Harari et al. vs Fall Shield-AI
 
 | Parameter                   | Harari et al. (2021)                                               | Fall Shield-AI                                                           |
 | --------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------ |
@@ -37,7 +37,7 @@ Harari et al. proposed a smartphone-based system for detecting **real-life falls
 
 ---
 
-## 4. Detection Workflow
+## 3. Detection Workflow
 
 Sure. Use a **compact flowchart** with no unnecessary vertical spacing:
 
@@ -82,7 +82,7 @@ Cancel            SOS Flow
 ```
 
 
-## 5. What We Learned from the Paper
+## 4. What We Learned from the Paper
 
 1. **Real-world performance can differ significantly from simulated-data performance.**
 
@@ -102,7 +102,7 @@ Cancel            SOS Flow
 
 ---
 
-## 6. Research Gap
+## 5. Research Gap
 
 The paper demonstrates the feasibility of smartphone-based real-life fall detection, but challenges remain in **false-alarm handling, low-impact falls, phone movement, connectivity, personalization, and user response after a detected event**.
 
@@ -112,7 +112,7 @@ Fall Shield-AI addresses these challenges through a **multi-stage detection and 
 
 ---
 
-## 7. Future Scope
+## 6. Future Scope
 
 * **Fully on-device ML inference** for stronger offline operation.
 
@@ -128,7 +128,7 @@ Fall Shield-AI addresses these challenges through a **multi-stage detection and 
 
 ---
 
-## 8. Conclusion
+## 7. Conclusion
 
 Harari et al. established that smartphone accelerometer and gyroscope sensors can be used for real-life fall detection and real-time notification. However, their results also highlight challenges such as missed low-impact falls and false alarms.
 
