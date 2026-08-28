@@ -133,3 +133,6 @@ Fall Shield-AI addresses these challenges through a **multi-stage detection and 
 Harari et al. established that smartphone accelerometer and gyroscope sensors can be used for real-life fall detection and real-time notification. However, their results also highlight challenges such as missed low-impact falls and false alarms.
 
 **Fall Shield-AI builds on these observations by extending fall detection into a complete emergency-response pipeline with edge filtering, ML validation, user confirmation, false-alarm handling, and SOS escalation.**
+---
+
+**Reviewed by:** Adarsh Chaubey 
