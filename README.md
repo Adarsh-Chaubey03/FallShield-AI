@@ -85,12 +85,10 @@ Cancel Alert           ↓
 
 
 
-**Team Name:**  **Ved Vahini**
-
-| Member               | Enrollment No. | Role        |
-| -------------------- | -------------: | ----------- |
-| Adarsh Chaubey       |       23103066 | Team Member |
-| Sakshi Gupta         |       23103067 | Team Member |
-| Divyam Kumar Choubey |       23103070 | Team Member |
-| Aditya Laxkar        |       23103071 | Team Member |
+| Member               | Enrollment No. |
+| -------------------- | -------------: |
+| Adarsh Chaubey       |       23103066 |
+| Aditya Laxkar        |       23103071 |
+| Divyam Kumar Choubey |       23103070 | 
+| Sakshi Gupta         |       23103067 |
 
